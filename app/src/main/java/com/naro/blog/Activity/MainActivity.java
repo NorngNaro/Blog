@@ -177,7 +177,6 @@ public class MainActivity extends AppCompatActivity {
                         Toast.LENGTH_LONG).show();
 
                 Log.e(TAG, "onChanged: Workkkkkkkkkkkkk" );
-                Log.e(TAG, "onChanged: NOTdfdf Workkkkkkkkkkkkk" );
 
             }
         });
