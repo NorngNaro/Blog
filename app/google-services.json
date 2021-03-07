@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "455936993914",
+    "project_id": "hrd-android-project",
+    "storage_bucket": "hrd-android-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455936993914:android:4ef1733ede516f146e29c3",
+        "android_client_info": {
+          "package_name": "com.naro.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "455936993914-4kpd370l6f66sq2katmlkg70lrb2b05i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.naro.blog",
+            "certificate_hash": "331ea8d9ccd8f65961a06cd1fdb005b306375297"
+          }
+        },
+        {
+          "client_id": "455936993914-dshuas0n7uvg9p5urqqq1iu71rgr6m8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8DDPJp6apmlJGf1V3XG20KwqmkbZj6x8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "455936993914-dshuas0n7uvg9p5urqqq1iu71rgr6m8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
